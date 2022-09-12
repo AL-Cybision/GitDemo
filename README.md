@@ -9,3 +9,6 @@ Project: Team WebBBT3 familarity with Github.
 
 ### Addtition
 1) Takes to inputs sum them & output.
+
+**Subtraction**
+1) Subtract two numbers 
